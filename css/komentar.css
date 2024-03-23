@@ -1,0 +1,148 @@
+.body {
+    background-color: #CAE8EF;
+  }
+  .container {
+    width: 100%;
+    height: auto;
+  }
+  .search_foto {
+    font-family: "poppins", sans-serif;
+    font-size: 15px;
+    border-radius: 50px 0px 0px 50px;
+    padding-left: 20px;
+    width: 200px;
+    height: 40px;
+  }
+  
+  .icon_search_foto {
+    border-color: #dee2e6;
+    background-color: #fff;
+    border-left: none;
+    border-radius: 0px 25px 25px 0px;
+    padding: 9px 10px;
+    margin-left: 0px;
+    background: none;
+    color: #000;
+  }
+  .profil-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.profil-img1{
+    width: 200px !important;
+}
+
+
+  .dropdown-toggle::after {
+    display: none !important;
+}
+
+.dropdown-menu {
+    background-color: white;
+    border: none;
+}
+
+.dropdown-toggle:hover {
+    cursor: pointer;
+}
+
+.dropdown-toggle,
+.dropdown-toggle.btn.show,
+.dropdown-toggle.btn:first-child:active,
+.dropdown-toggle.btn.active,
+.dropdown-toggle.btn-check:checked+.btn,
+:not(.btn-check)+.btn:active {
+    border: none !important;
+}
+
+.dropup:hover {
+    cursor: pointer !important;
+}
+
+.dropdown-menu a {
+    color: #000000;
+}
+
+.dropdown-menu a:hover {
+    background-color: white;
+    color: grey;
+}
+
+.dropdown-toggle:hover .profil-img,
+.dropdown-toggle:active .profil-img {
+    border: 1px groove #000000 !important;
+}
+
+  
+  .logo_foto {
+    font-size: 0px;
+    font-family: "JejuMyeongjo";
+  }
+  
+  .poto11 {
+    border-radius: 30px;
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    margin-top: 7px;
+    margin-bottom: -8px;
+  }
+  .deskripsi {
+    margin-left: 20px;
+  }
+  .gambaaar {
+    width: 35px;
+    height: 35px;
+  }
+  .card{
+    border-radius: 30px;
+  }
+  .komentar {
+    border-radius: 20px;
+    height: 40px;
+    padding-left: 20px;
+    font-size: 13px;
+    font-family: "poppins", sans-serif;
+  }
+  .gbr4{
+      border-radius: 30px;
+      width: 22px;
+      height: 22px;
+      margin-left: 5px;
+  }
+  .profil1{
+      width: 20px;
+      height: 20px;
+      margin-left: 5px;
+      margin-top: 7px;
+      margin-bottom: -8px;
+  }
+  .gbr_objek{
+      margin-top: 50px;
+      padding-left: 6px;
+      width: 247px;
+      height: 130px;
+      border-radius: 12px;
+      margin-bottom: -5px;
+  }
+  .deskripsi{
+    border-radius: 20px;
+    width: 450px;
+    height: 40px;
+    padding-left: 20px;
+    font-size: 13px;
+    font-family: "poppins", sans-serif;
+  }
+
+  footer {
+    font-family: "poppins", sans-serif;
+    background-color:rgb(70, 64, 64);
+    padding: 10px;
+    width: 1000px;
+    color: white;
+  }
+  footer .p2 {
+    text-align: center;
+  }
